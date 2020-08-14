@@ -7,8 +7,7 @@
 <img width="auto" src="https://github.com/Fernanda-Kipper/Proffy-NLW/raw/master/git-images/welcome-page.png" alt="imagem de visualização do proffy" />
 
 <h2>Mobile!!</h2>
-<img width="auto" src="https://github.com/Fernanda-Kipper/Proffy-NLW/raw/master/git-images/
-mobile.png" alt="visualização do proffy mobile" />
+<img width="auto" src="https://github.com/Fernanda-Kipper/Proffy-NLW/raw/master/git-images/mobile.png" alt="visualização do proffy mobile" />
 
 ### 🛠 Tecnologias
 
